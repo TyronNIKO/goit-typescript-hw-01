@@ -1,1 +1,1 @@
-# RodikaChorba-
+# goit-typescript-hw-01
